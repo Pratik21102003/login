@@ -1,1 +1,1 @@
-mysql_connector
+mysql_connector_repackaged
